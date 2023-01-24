@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/bcoe/google-cloud-node/compare/binary-authorization-v2.1.1...binary-authorization-v2.2.0) (2023-01-24)
+
+
+### Features
+
+* Initial commit of all the things ([71e10fc](https://github.com/bcoe/google-cloud-node/commit/71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1))
+
 ## [2.1.1](https://github.com/googleapis/nodejs-binary-authorization/compare/v2.1.0...v2.1.1) (2022-11-10)
 
 

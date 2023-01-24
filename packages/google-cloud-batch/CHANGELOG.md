@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/bcoe/google-cloud-node/compare/batch-v0.4.0...batch-v0.5.0) (2023-01-24)
+
+
+### Features
+
+* Initial commit of all the things ([71e10fc](https://github.com/bcoe/google-cloud-node/commit/71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1))
+
 ## [0.4.0](https://github.com/googleapis/google-cloud-node/compare/batch-v0.3.2...batch-v0.4.0) (2022-12-16)
 
 
