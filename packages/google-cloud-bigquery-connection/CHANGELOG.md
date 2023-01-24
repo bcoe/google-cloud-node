@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/bcoe/google-cloud-node/compare/bigquery-connection-v2.0.2...bigquery-connection-v2.1.0) (2023-01-24)
+
+
+### Features
+
+* Initial commit of all the things ([71e10fc](https://github.com/bcoe/google-cloud-node/commit/71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1))
+
 ## [2.0.2](https://github.com/googleapis/nodejs-bigquery-connection/compare/v2.0.1...v2.0.2) (2022-09-01)
 
 
