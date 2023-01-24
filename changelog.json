@@ -1,4 +1,468 @@
 {
   "repository": "bcoe/google-cloud-node",
-  "entries": []
+  "entries": [
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "3.8.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/compute",
+      "id": "6d7c0197-670e-43cb-b531-baa26ab274a9",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/dms",
+      "id": "1acc2d41-f77c-4cf4-b053-2187f65721aa",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.4.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/channel",
+      "id": "853eb122-96ee-46b2-873d-4c3a87aa22c3",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.7.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/certificate-manager",
+      "id": "755f86a4-2c6c-41aa-b53d-d2e3ffe06b9a",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/binary-authorization",
+      "id": "fd3f7d9f-fd79-4c6d-9573-dcefe95833ee",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "4.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/billing-budgets",
+      "id": "1150c3a3-5820-4704-bbc8-a9caf422f07c",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "3.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/billing",
+      "id": "a462a743-77a5-4ad6-8e66-545953a9b31a",
+      "createTime": "2023-01-24T18:18:41.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.1.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-reservation",
+      "id": "9a5d3cf1-abbe-42ed-b136-3ae8b3ea4227",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "3.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-data-transfer",
+      "id": "5ab6520e-c6f3-4a0c-bae3-f3c1a2f1e81c",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-datapolicies",
+      "id": "31812ce5-ea00-4f44-bd63-d17bebee795c",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-data-exchange",
+      "id": "43856a66-e161-4391-b255-c63d68b837cd",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.1.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-connection",
+      "id": "6a718aaa-cd39-4ed8-9eed-d62774971f3e",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bigquery-analyticshub",
+      "id": "be9da53b-3687-4a6d-bd57-273208488169",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/clientgateways",
+      "id": "c59af60c-3d49-49c8-aaac-b8bf33b2f352",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/clientconnectorservices",
+      "id": "147bdade-99d5-4c03-af65-b6c74bb1a179",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/appgateways",
+      "id": "25919cfb-4846-49fd-8e78-34854f56506e",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/appconnectors",
+      "id": "f178b4e7-04ea-4b28-94d8-3f20e81731c9",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/appconnections",
+      "id": "c0a5ebb0-3bf1-4193-b8fb-b6716aa4280f",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.5.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/batch",
+      "id": "8d120962-a6f2-4fea-8b24-32a446dad145",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/bare-metal-solution",
+      "id": "efd69191-d6af-42c5-a6e9-35ccf2058a31",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "3.6.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/assured-workloads",
+      "id": "ee94c3cd-47f6-4428-8822-698ed0538150",
+      "createTime": "2023-01-24T18:18:41.673Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "4.6.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/asset",
+      "id": "ade2ae11-0279-4e67-be8f-b294eedc320f",
+      "createTime": "2023-01-24T18:18:41.672Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/apigee-connect",
+      "id": "fdedad15-c46c-4498-a57b-ac45bbbf69d8",
+      "createTime": "2023-01-24T18:18:41.672Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/api-gateway",
+      "id": "4ccdf0e6-f4ec-473c-a67a-0054c11e5997",
+      "createTime": "2023-01-24T18:18:41.672Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/access-approval",
+      "id": "090c251b-e086-4f07-8f9a-1482f9587c7f",
+      "createTime": "2023-01-24T18:18:41.672Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google/area120-tables",
+      "id": "f412bfa0-1146-4ad6-8416-e3743a2931f8",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/appengine-admin",
+      "id": "cc6c6e98-d410-4a41-b8b6-3293e82eaec5",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/service-usage",
+      "id": "87186f8d-5fd2-4c63-bf30-e3ac7d36702a",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "1.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/service-management",
+      "id": "98ead8cb-f50d-4d02-8f88-bac652a436e4",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "2.1.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/service-control",
+      "id": "dff56a5b-ca88-41be-ab80-2086e55d917a",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "0.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-cloud/apikeys",
+      "id": "9b0a1217-1eca-4066-ade9-cddd10ddd988",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "3.2.0",
+      "language": "JAVA",
+      "artifactName": "@google-analytics/data",
+      "id": "2af16ecb-9f79-4a3f-8a58-a27f64320bc5",
+      "createTime": "2023-01-24T18:18:41.671Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "71e10fc3162a30f97ade4d84d5e2ae4148c4d8c1",
+          "message": "Initial commit of all the things"
+        }
+      ],
+      "version": "4.4.0",
+      "language": "JAVA",
+      "artifactName": "@google-analytics/admin",
+      "id": "bc71e6d5-0eaf-4597-8aa3-ea011afc9cad",
+      "createTime": "2023-01-24T18:18:41.668Z"
+    }
+  ],
+  "updateTime": "2023-01-24T18:18:41.674Z"
 }
